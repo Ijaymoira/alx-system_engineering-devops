@@ -1,1 +1,1 @@
-list with the format
+Set mode for two files

@@ -1,1 +1,1 @@
-Swicthing user
+whoami

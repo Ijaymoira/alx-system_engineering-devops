@@ -1,1 +1,1 @@
-group a user belongs to
+to change ownership of file

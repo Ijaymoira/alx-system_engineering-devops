@@ -1,1 +1,1 @@
-remove
+delete directory

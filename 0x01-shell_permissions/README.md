@@ -1,1 +1,1 @@
-multiple permissions
+all right to execute

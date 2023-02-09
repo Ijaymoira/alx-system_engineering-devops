@@ -1,1 +1,1 @@
-all right to execute
+No access to ug but o

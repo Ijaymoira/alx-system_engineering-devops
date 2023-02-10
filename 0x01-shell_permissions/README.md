@@ -1,1 +1,1 @@
-Set mode for two files
+For just subdirectories

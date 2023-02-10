@@ -1,1 +1,1 @@
-For just subdirectories
+for current directory

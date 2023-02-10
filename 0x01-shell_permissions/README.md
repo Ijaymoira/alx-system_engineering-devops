@@ -1,1 +1,1 @@
-for current directory
+For creating directories and access

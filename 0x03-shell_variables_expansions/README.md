@@ -1,1 +1,1 @@
-list environment variables
+listing local variables and environment

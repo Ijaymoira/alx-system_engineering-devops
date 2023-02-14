@@ -1,1 +1,1 @@
-äction of the last directory
+counts the number of directories in a file

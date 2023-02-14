@@ -1,1 +1,1 @@
-dupicatig last line
+10 newest lines

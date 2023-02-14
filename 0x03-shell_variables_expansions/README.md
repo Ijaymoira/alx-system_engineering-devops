@@ -1,1 +1,1 @@
-script that creates an alias
+scrits that print a string when user is current file

@@ -1,1 +1,1 @@
- password display
+REAdme for two files display

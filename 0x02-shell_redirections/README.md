@@ -1,1 +1,1 @@
-prints followed by a new line
+ password display

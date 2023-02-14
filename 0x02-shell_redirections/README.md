@@ -1,1 +1,1 @@
-REAdme for two files display
+ for last 10 lines

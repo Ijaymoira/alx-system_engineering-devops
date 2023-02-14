@@ -1,2 +1,2 @@
 #!/bin/bash
-find /etc/passwd -type d *bin* | wc -l
+cat -type d *bin* > /etc/passwd | wc -l

@@ -1,1 +1,1 @@
-listing files which ae not duplicate but sorted
+root pattern for etc passwd

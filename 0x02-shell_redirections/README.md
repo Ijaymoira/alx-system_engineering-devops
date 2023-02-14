@@ -1,1 +1,1 @@
-root pattern for etc passwd
+count no lines in etc

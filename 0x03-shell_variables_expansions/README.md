@@ -1,1 +1,1 @@
-counts the number of directories in a file
+list environment variables

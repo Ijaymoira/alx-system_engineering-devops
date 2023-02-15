@@ -1,1 +1,1 @@
-display the result of breadth to the power of love
+converts a number from base 2 to base 10

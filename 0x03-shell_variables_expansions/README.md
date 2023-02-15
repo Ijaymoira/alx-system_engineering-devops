@@ -1,1 +1,1 @@
-prints the result of power divided by divide plus new line
+display the result of breadth to the power of love

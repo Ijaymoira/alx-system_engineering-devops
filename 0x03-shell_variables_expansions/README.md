@@ -1,1 +1,1 @@
-converts a number from base 10 to 16
+from 10 base to base 16

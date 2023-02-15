@@ -1,1 +1,1 @@
-listing local variables and environment
+scripts that creates new local

@@ -1,1 +1,1 @@
-evryother linefrom input
+add two number stored in variable

@@ -1,1 +1,1 @@
-converts a number from base 2 to base 10
+prints two decimal places followed by a new line
